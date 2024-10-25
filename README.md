@@ -1,4 +1,4 @@
-# Netflix Data Analysis
+# <p style="text-align:center;">Netflix Data Analysis</p>
 
 ## Overview:
 Data Analysis of Netflix using both SQL and Python along with a visualization of the cleaned dataset using Tableau to gather insights and trends in the data.
