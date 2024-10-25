@@ -22,7 +22,7 @@ The SQL code can be found here: [Click Here](https://github.com/Habzal/Netflix-D
 
 Insights from Tableau:
 Here is a link to my Tableau dashboard which provides us key insights and trends on our cleaned Netflix data:
-[Tableau Dashboard]https://public.tableau.com/app/profile/afzal.patel7091/viz/NetflixDataAnalysis_17295647334870/Dashboard1
+[Tableau Dashboard](https://public.tableau.com/app/profile/afzal.patel7091/viz/NetflixDataAnalysis_17295647334870/Dashboard1)
 
 
 
