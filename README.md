@@ -1,4 +1,4 @@
-# H1 Netflix Data Analysis
+#H1 Netflix Data Analysis
 
 Overview:
 Data Analysis of Netflix using both SQL and Python along with a visualization of the cleaned dataset using Tableau to gather insights and trends in the data.
