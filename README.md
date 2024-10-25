@@ -13,9 +13,13 @@ To clean the data, I utilized both Python and SQL. You can find the cleaned data
 After cleaning the data in SQL, I analyzed several key insights:
 
 **Director Output**: Counted the number of movies and TV shows for each director in separate columns.
+
 **Comedy Movies by Country**: Identified the countries with the highest number of comedy movies.
+
 **Top Directors by Year**: Determined which director released the most movies for each year, based on the date_added.
+
 **Average Movie Duration**: Calculated the average duration of movies within each genre.
+
 **Directors of Multiple Genres**: Listed directors who have created both horror and comedy movies, along with the count of comedy and horror films they've directed.
 
 The SQL code can be found here: [Click Here](https://github.com/Habzal/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis.sql)
