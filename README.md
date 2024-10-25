@@ -21,6 +21,7 @@ After doing a data clean up in SQL, I analyzed some key insights related to the 
 The SQL code can be found here: [Click Here](https://github.com/Habzal/Netflix-Data-Analysis/blob/main/Netflix%20Data%20Analysis.sql)
 
 Insights from Tableau:
+
 Here is a link to my Tableau dashboard which provides us key insights and trends on our cleaned Netflix data:
 [Tableau Dashboard](https://public.tableau.com/app/profile/afzal.patel7091/viz/NetflixDataAnalysis_17295647334870/Dashboard1)
 
